@@ -1,0 +1,5 @@
+C 		AaaaiLife	xsa 3.9
+D 		AaaaoPolt 	x 		4.1
+E 		Aaa 	 		xx 		0.1
+A 		AaaauMC   	x 		1.2
+B 		AaaeSOS   	X 		2.3
